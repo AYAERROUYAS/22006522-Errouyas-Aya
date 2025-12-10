@@ -1,4 +1,8 @@
-# RAPPORT PROFESSIONNEL
+# 22006522
+# ERROUYAS AYA
+# CAC2
+
+
 ## Maintenance Prédictive par Intelligence Artificielle
 ### Machine Predictive Maintenance Classification
 
@@ -194,7 +198,7 @@ Dans un environnement industriel, les capteurs IoT peuvent :
    - Détecte un NaN dans "Torque" à la ligne 4523
    - Injecte 40.25 Nm à la place
 
-### 💡 Le Coin de l'Expert : Normalisation Critique
+###  Le Coin de l'Expert : Normalisation Critique
 
 **Pourquoi StandardScaler est obligatoire ici ?**
 
@@ -244,7 +248,7 @@ En analysant la heatmap :
 
 ---
 
-## 6. FOCUS THÉORIQUE : L'Algorithme Random Forest 🌲
+## 6. FOCUS THÉORIQUE : L'Algorithme Random Forest 
 
 ### Pourquoi Random Forest pour la Maintenance Prédictive ?
 
@@ -392,7 +396,3 @@ Ce projet démontre que la **Data Science industrielle** est une discipline hybr
 **La valeur ajoutée** ne réside pas dans le code, mais dans la **traduction d'un problème business en solution ML pertinente**, où chaque choix technique (classe équilibrée, optimisation du Recall) découle d'une contrainte métier réelle.
 
 ---
-
-**Auteur** : Équipe Data Science & Industrie 4.0  
-**Date** : Décembre 2025  
-**Version** : 1.0 - Production Ready
