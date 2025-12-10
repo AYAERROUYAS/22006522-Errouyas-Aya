@@ -1,7 +1,7 @@
 # 22006522
 # ERROUYAS AYA
 ## CAC2
-<img src="IMG-20241010-WA0122.jpg" style="height:150px;margin-right:100px"/>
+<img src="AYA.jpeg" style="height:150px;margin-right:100px"/>
 
 
 ## Maintenance Prédictive par Intelligence Artificielle
