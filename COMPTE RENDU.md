@@ -177,9 +177,11 @@ print(feature_importance.head())
 ```
 
 ---
+
 <img src="confusion.png" style="height:150px;margin-right:100px"/>
 <img src="matrice de correlation.png" style="height:150px;margin-right:100px"/>
 <img src="graphe.png" style="height:150px;margin-right:100px"/>
+
 ## 4. Analyse Approfondie : Nettoyage (Data Wrangling)
 
 ### Le Problème des Capteurs Défaillants
